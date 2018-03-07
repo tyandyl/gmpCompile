@@ -1,4 +1,4 @@
-package com.gmp.core.inter;
+package com.gmp.core;
 
 import java.util.Date;
 import java.util.List;
